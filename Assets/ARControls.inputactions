@@ -1,0 +1,34 @@
+{
+    "name": "ARControls",
+    "maps": [
+        {
+            "name": "Controls",
+            "id": "bcdf2895-f96f-4d54-9cd0-648cddbf1dfc",
+            "actions": [
+                {
+                    "name": "Touch",
+                    "type": "Value",
+                    "id": "efdee645-4f42-4c15-b062-2a9f0de823d7",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9de2d2c4-a1cb-490b-8d20-9e91f76c6b5a",
+                    "path": "<Pointer>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Touch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
